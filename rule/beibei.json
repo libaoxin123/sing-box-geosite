@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "adsmind.ugdtimg.com",
+        "api-access.pangolin-sdk-toutiao-b.com",
+        "api-access.pangolin-sdk-toutiao.com",
+        "api-access.pangolin-sdk-toutiao1.com",
+        "api.ksnows.com",
+        "g-api.kwai.com",
+        "gromore.pangolin-sdk-toutiao.com",
+        "h-adashx.ut.taobao.com",
+        "lf3-ad-union-sdk.pglstatp-toutiao.com",
+        "log-api.pangolin-sdk-toutiao-b.com",
+        "log-api.pangolin-sdk-toutiao.com",
+        "mi.gdt.qq.com",
+        "open.e.kuaishou.cn",
+        "open.e.kuaishou.com",
+        "open.kwaizt.com",
+        "p2-lm.adukwai.com",
+        "pgdt.ugdtimg.com",
+        "sdk.e.qq.com",
+        "tnc3-aliec2.zijieapi.com",
+        "tnc3-alisc1.zijieapi.com",
+        "tnc3-bjlgy.zijieapi.com",
+        "v.gdt.qq.com",
+        "v2.gdt.qq.com"
+      ]
+    }
+  ],
+  "version": 1
+}

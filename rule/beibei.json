@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "adsmind.ugdtimg.com",
         "api-access.pangolin-sdk-toutiao-b.com",
         "api-access.pangolin-sdk-toutiao.com",

@@ -1,0 +1,61 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "1dot1dot1dot1.cloudflare-dns.com",
+        "1lib.sk",
+        "69yun.top",
+        "6bcloud.top",
+        "asiassn.com",
+        "browserleaks.com",
+        "cloudflare-dns.com",
+        "dns.google",
+        "dns.quad9.net",
+        "dns.umbrella.com",
+        "dnsleaktest.com",
+        "doh.dns.sb",
+        "doh.opendns.com",
+        "dot.sb",
+        "followme.ceo",
+        "followme.com",
+        "hk-hkg.doh.sb",
+        "hostloc.net",
+        "ip-score.com",
+        "ip111.cn",
+        "ipinfo.io",
+        "ipleak.net",
+        "kuajing.uk",
+        "lianjiasub.work",
+        "metacubex.one",
+        "mmcks.top",
+        "muniucloud.pro",
+        "mzzxuh.com",
+        "needay.xyz",
+        "nivodi.com",
+        "plex.tv",
+        "plexapp.com",
+        "plexmediaserver.com",
+        "polivera.ai",
+        "tmgm.com",
+        "viptwo.top",
+        "whatsmydns.me",
+        "xiaoxintv.cc"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.0.0.1/32",
+        "1.1.1.1/32",
+        "103.115.43.2/32",
+        "104.236.69.0/24",
+        "142.171.133.131/32",
+        "185.222.222.222/32",
+        "208.67.220.220/32",
+        "208.67.222.222/32",
+        "8.8.4.4/32",
+        "8.8.8.8/32"
+      ]
+    }
+  ],
+  "version": 1
+}

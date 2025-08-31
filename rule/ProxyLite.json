@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "oceancloud.asia"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "api.themoviedb.org",
+        "cdnxxx-proxy.vip",
+        "cloudfisher.net",
+        "dl.openwrt.ai",
+        "feiniaoyun.top",
+        "feiniaoyun.xyz",
+        "jmzj.xyz",
+        "needay.xyz",
+        "nullbr.online",
+        "qichiyu.com",
+        "shop.awatv.de",
+        "顶级机场.com"
+      ]
+    }
+  ],
+  "version": 1
+}

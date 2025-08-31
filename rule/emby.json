@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cf.imetyou.top",
+        "emby.as174.de",
+        "emby.oceancloud.asia",
+        "nsfw.oceancloud.asia"
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -9,6 +9,8 @@
 !
 !
 !
+||frhiys.com^$all
+||player.target-video.com^
 ||trafficoza.com^$all
 ||cdn.xclick.app^$third-party
 ||pkoapbafhgaf.in^

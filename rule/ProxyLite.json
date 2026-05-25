@@ -7,21 +7,30 @@
     },
     {
       "domain_suffix": [
-        "api.oplist.org",
+        "acg.rip",
+        "anibt.net",
+        "anilist.co",
+        "animes.garden",
         "api.themoviedb.org",
         "assets.fanart.tv",
+        "bgm.tv",
         "cdnxxx-proxy.vip",
         "cloudfisher.net",
         "dl.openwrt.ai",
-        "doc.oplist.org",
         "feiniaoyun.top",
         "feiniaoyun.xyz",
+        "google.com",
         "jmzj.xyz",
         "mikanani.me",
+        "mikanime.tv",
         "needay.xyz",
         "nullbr.online",
+        "nyaa.si",
         "qichiyu.com",
         "shop.awatv.de",
+        "themoviedb.org",
+        "tmdb.org",
+        "wushuo.top",
         "顶级机场.com"
       ]
     }

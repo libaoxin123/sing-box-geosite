@@ -9,6 +9,12 @@
 !
 !
 !
+||103.179.189.35^$network
+||twimg.cash^$all
+||dclsrv.com^
+||dtasrvr.com^
+||gresrv.com^
+||srvgl.com^
 ||amkcuwli.in^
 ||aboveboardcomplicate.com^
 ||abjectionfreedpaying.com^

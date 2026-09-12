@@ -2,7 +2,8 @@
   "rules": [
     {
       "domain": [
-        "oceancloud.asia"
+        "oceancloud.asia",
+        "themoviedb.org"
       ]
     },
     {
@@ -11,17 +12,13 @@
         "anibt.net",
         "anilist.co",
         "animes.garden",
-        "api.themoviedb.org",
-        "assets.fanart.tv",
         "bgm.tv",
         "cdnxxx-proxy.vip",
         "cloudfisher.net",
         "dl.openwrt.ai",
-        "doc.oplist.org",
         "fanart.tv",
         "feiniaoyun.top",
         "feiniaoyun.xyz",
-        "google.com",
         "jmzj.xyz",
         "mikanani.me",
         "mikanime.tv",
@@ -31,8 +28,6 @@
         "qichiyu.com",
         "seedhub.cc",
         "shop.awatv.de",
-        "telegram.me",
-        "themoviedb.org",
         "tmdb.org",
         "wushuo.top",
         "yinglianwan.top",

@@ -1,12 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "oceancloud.asia",
-        "themoviedb.org"
-      ]
-    },
-    {
       "domain_suffix": [
         "acg.rip",
         "anibt.net",
@@ -25,9 +19,11 @@
         "needay.xyz",
         "nullbr.online",
         "nyaa.si",
+        "oceancloud.asia",
         "qichiyu.com",
         "seedhub.cc",
         "shop.awatv.de",
+        "themoviedb.org",
         "tmdb.org",
         "wushuo.top",
         "yinglianwan.top",
